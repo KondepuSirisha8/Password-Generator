@@ -49,3 +49,4 @@ if st.button("Generate Password"):
         st.code(result, language='text')
         st.button("Copy", on_click=st.experimental_set_query_params, args=({'password': result},))
 
+![image alt](https://github.com/KondepuSirisha8/Password-Generator/blob/main/Screenshot%202025-06-02%20151428.png?raw=true)
